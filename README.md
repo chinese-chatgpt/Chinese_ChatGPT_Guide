@@ -1,12 +1,12 @@
 # ChatGPT 中文版：国内如何使用 ChatGPT？免费指南~（支持 GPT-4.1、4o 和 o1，无需翻墙）
 
-> **更新时间：2025/06/11**                    
+> **更新时间：2025/06/15**                    
 
-**国内直连，无需翻墙，轻松使用ChatGPT**，国内最新 [**ChatGPT中文版**](https://chat.lanjing.pro) 使用指南，**无限使用 GPT-4、4o和o1模型**
+**国内直连，无需翻墙，轻松使用ChatGPT**，国内最新 [**ChatGPT中文版**](https://chat.lanjingai.org) 使用指南，**无限使用 GPT-4、4o和o1模型**
 
 本指南将详细介绍如何在国内使用 [**ChatGPT 中文版**](https://xsimplechat.com)，助你快速用上ChatGPT~
 
-**ChatGPT 中文版**入口：**[https://chat.lanjing.pro](https://chat.lanjing.pro)**   
+**ChatGPT 中文版**入口：**[https://chat.lanjingai.org](https://chat.lanjingai.org)**   
 **ChatGPT 镜像网站**：**[https://xsimplechat.com](https://xsimplechat.com)**
 
 ---
@@ -22,7 +22,7 @@
 
 ## 1. 什么是 ChatGPT 中文版？
 
-[**ChatGPT中文版**](https://chat.lanjing.pro) 是 OpenAI 的 ChatGPT模型的中文本地化版本，专为国内用户，提供流畅和精准的AI对话能力。
+[**ChatGPT中文版**](https://chat.lanjingai.org) 是 OpenAI 的 ChatGPT模型的中文本地化版本，专为国内用户，提供流畅和精准的AI对话能力。
 
 - **中文能力**：提供流畅的中文交流，特别适合学习、办公及日常使用。
 - **无需翻墙**：国内直连，通过国内镜像网站即可快速访问。
@@ -36,7 +36,7 @@
 
 | 镜像站名称         | 地址                             | 支持版本           | 免费额度 | 注册方式           | 稳定性  | 功能亮点                |
 |--------------------|----------------------------------|--------------------|----------|--------------------|---------|-------------------------|
-| 蓝鲸AI             | [chat.lanjing.pro](https://chat.lanjing.pro/) | GPT-4、4o、o1、Gemini、Claude  | 有       | 扫码即可       | 高      | 支持 AI绘画、AI助手、AI插件等  |
+| 蓝鲸AI             | [chat.lanjingai.org](https://chat.lanjingai.org/) | GPT-4、4o、o1、Gemini、Claude  | 有       | 扫码即可       | 高      | 支持 AI绘画、AI助手、AI插件等  |
 | 简单AI             | [xsimplechat.com](https://xsimplechat.com/) | GPT-4o、4o mini、o1 | 有       | 扫码即可       | 高      | 支持多模型，AI写作、AI编程、AI工作~  |
 | AI工具站           | [yixiaai.cn](https://yixiaai.cn/) | GPT-4、o1           | 有       | 扫码即可      | 高      | 稳定快速，各种AI工具~ |
 | AI指南             | [chat.lanjingai.org](https://chat.lanjingai.org/) | GPT-4、o1           | 有       | 扫码即可   | 高      | AI使用指南            |
@@ -61,7 +61,7 @@
 
 ## 4. ChatGPT 中文版的使用方法
 
-1. **选择镜像站点**：访问推荐的镜像站点（如 [chat.lanjing.pro](https://chat.lanjing.pro/)）。
+1. **选择镜像站点**：访问推荐的镜像站点（如 [chat.lanjingai.org](https://chat.lanjingai.org/)）。
 2. **注册或直接使用**：
    - **扫码登录**：微信扫码，即可使用。
    - **免注册**：直接进入聊天界面，输入问题即可获得解答。
